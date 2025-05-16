@@ -1,0 +1,3 @@
+/tmp/para-root/opt/IntelligentWiper/etc/exec/IntelligentWiper.json
+/tmp/para-root/opt/IntelligentWiper/etc/interface/IntelligentWiper/AA/RPort_BCM_WiperWash.json
+/tmp/para-root/opt/IntelligentWiper/bin/IntelligentWiper
